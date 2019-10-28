@@ -1,0 +1,22 @@
+{
+  "name": "codedeploy-demo",
+  "version": "1.0.0",
+  "description": "express demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidingnan/codedeploy-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidingnan/codedeploy-demo/issues"
+  },
+  "homepage": "https://github.com/aidingnan/codedeploy-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
